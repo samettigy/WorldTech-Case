@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# WorldTech-Case
-=======
+
 <h1 align="center">
      Movie Purchase App
 </h1>
