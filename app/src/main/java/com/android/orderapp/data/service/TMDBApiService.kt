@@ -17,7 +17,7 @@ interface TMDBApiService {
 
     @GET("movie/{movie_id}")
     suspend fun getMovieDetailsById(
-        @Path("movie_id") id: Int
+        @Path("movie_id") id:  Int
     ): Response<MovieModel>
 
 }
