@@ -15,13 +15,5 @@
 - Glide
 - Dagger - Hilt 
 - Data Binding
-- Pagination
 
-## Screenshots
-
-| Login Screen | Home Screen | Detail Screen | Favorite Screen |
-| ----------- | ----------- | ---------------- | ---------------- |
-| ![Login Screen](https://github.com/samettigy/OrderApp/blob/main/loginscreen.png) | ![Home Screen](https://github.com/samettigy/OrderApp/blob/main/homeScreen.png) | ![Detail Screen](https://github.com/samettigy/OrderApp/blob/main/detailScreen.png) | ![Favorite Screen](https://github.com/samettigy/OrderApp/blob/main/FavoriteScreen.png) |
-| Cart Screen | Profile Screen
-| ![Cart Screen](https://github.com/samettigy/OrderApp/blob/main/cartScreen.png) | ![Profile Screen](https://github.com/samettigy/OrderApp/blob/main/ProfileScreen.png) 
 
